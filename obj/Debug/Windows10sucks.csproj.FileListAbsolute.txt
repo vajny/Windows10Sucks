@@ -1,0 +1,14 @@
+B:\w10sucks\Windows10sucks\bin\Debug\Windows10sucks.exe.config
+B:\w10sucks\Windows10sucks\bin\Debug\Windows10sucks.exe
+B:\w10sucks\Windows10sucks\bin\Debug\Windows10sucks.pdb
+B:\w10sucks\Windows10sucks\obj\Debug\Windows10sucks.Form1.resources
+B:\w10sucks\Windows10sucks\obj\Debug\Windows10sucks.Properties.Resources.resources
+B:\w10sucks\Windows10sucks\obj\Debug\Windows10sucks.csproj.GenerateResource.cache
+B:\w10sucks\Windows10sucks\obj\Debug\Windows10sucks.csproj.CoreCompileInputs.cache
+B:\w10sucks\Windows10sucks\obj\Debug\Windows10sucks.exe
+B:\w10sucks\Windows10sucks\obj\Debug\Windows10sucks.pdb
+B:\w10sucks\Windows10sucks\bin\Debug\Windows10sucks.exe.manifest
+B:\w10sucks\Windows10sucks\bin\Debug\Windows10sucks.application
+B:\w10sucks\Windows10sucks\obj\Debug\Windows10sucks.exe.manifest
+B:\w10sucks\Windows10sucks\obj\Debug\Windows10sucks.application
+B:\w10sucks\Windows10sucks\obj\Debug\Windows10sucks.csprojAssemblyReference.cache
